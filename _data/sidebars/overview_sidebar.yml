@@ -29,8 +29,20 @@ entries:
   - title: Develop
     output: web
     folderitems:
+    - title: MESH Overview
+      url: /develop_mesh_overview.html
+      output: web
+    - title: MESH Server Usage
+      url: /develop_mesh_server_usage.html
+      output: web
     - title: MESH Server API
       url: /develop_mesh_server_api.html
+      output: web
+    - title: MESH Server Security
+      url: /develop_mesh_server_security.html
+      output: web
+    - title: MESH Example Code
+      url: /develop_mesh_server_example_code.html
       output: web
 
     output: web
@@ -41,12 +53,12 @@ entries:
 #      url: /capability_one.html
 #      output: web
 
-#  - title: Assure
-#    output: web
-#    folderitems:
-#    - title: Overview
-#      url: /assure_overview.html
-#      output: web
+  - title: Assure
+    output: web
+    folderitems:
+    - title: Overview
+      url: /assure_overview.html
+      output: web
 
 #  - title: Deploy
 #    output: web
